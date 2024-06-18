@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Inter', sans-serif;
-    cursor: none;
+    cursor:default;
 }
 /* Example styles for sections */
 #home {
@@ -37,7 +37,7 @@ html {
 }
 body {
     color: #fff;
-    background-color: #000;
+    background-color: #6e3a3a;
 }
 
 ::selection {
