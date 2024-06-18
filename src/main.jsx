@@ -4,8 +4,5 @@ import App from "./App.jsx";
 import "./css/styles.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <>
-  <h1>My Portfolio</h1>
     <App />
-  </>
 );
