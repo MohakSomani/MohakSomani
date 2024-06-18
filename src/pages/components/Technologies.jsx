@@ -38,6 +38,13 @@ function Technologies() {
           <div className="col">
             <img
               className="tech-icon-img"
+              src="https://skillicons.dev/icons?i=js"
+              alt="JavaScript"
+            />
+          </div>
+          <div className="col">
+            <img
+              className="tech-icon-img"
               src="https://skillicons.dev/icons?i=bash"
               alt="Bash Script"
             />
