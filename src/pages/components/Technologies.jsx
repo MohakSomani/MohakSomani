@@ -10,6 +10,41 @@ function Technologies() {
       <div className="container">
         <div className="row mt-80">
           <div className="col">
+            <h3>Programming/Scripting</h3>
+          </div>
+        </div>
+        <div className="row mt-80">
+          <div className="col">
+            <img
+              className="tech-icon-img"
+              src="https://skillicons.dev/icons?i=c"
+              alt="C"
+            />
+          </div>
+          <div className="col">
+            <img
+              className="tech-icon-img"
+              src="https://skillicons.dev/icons?i=cpp"
+              alt="C++"
+            />
+          </div>
+          <div className="col">
+            <img
+              className="tech-icon-img"
+              src="https://skillicons.dev/icons?i=py"
+              alt="Python"
+            />
+          </div>
+          <div className="col">
+            <img
+              className="tech-icon-img"
+              src="https://skillicons.dev/icons?i=bash"
+              alt="Bash Script"
+            />
+          </div>
+        </div>
+        <div className="row mt-80">
+          <div className="col">
             <h3>MERN Stack</h3>
           </div>
         </div>
@@ -175,7 +210,6 @@ function Technologies() {
           </div>
         </div>
       </div>
-      
     </div>
   );
 }
